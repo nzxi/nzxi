@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm nzxi from the Netherlands<br><br>- 📚 I'm currently studying programming and computer engineering<br>- ⚡ In my free time I like to code personal projects</p>
+<p align="left">I'm nzxi from the Netherlands<br><br>- 📚 I'm currently studying programming and computer engineering<br>- ⚡ In my free time I like to code personal projects</p><br> <p>- Need something? Feel to open an issue and we can get in contact!p>
 
 ###
 
